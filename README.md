@@ -15,4 +15,4 @@ AI Automation & LLM Developer
 
 📫 Email: ravishpaulkr@gmail.com  
 💼 LinkedIn: www.linkedin.com/in/ravish-paul  
-🐦 X: x.com/PaulkrScratch
+🐦 X: https://x.com/PaulkrScratch
