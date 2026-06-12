@@ -2,31 +2,17 @@
 
 AI Automation & LLM Developer
 
-## Skills
-
-- Python
-- Machine Learning
-- Deep Learning
-- NLP
-- LangChain
-- FastAPI
-- RAG
-- AI Agents
-- Azure
-- AWS
+🔹 Building LLM Apps, RAG Systems & AI Agents  
+🔹 Python, FastAPI, LangChain, Machine Learning  
+🔹 Exploring NLP, Deep Learning & Generative AI
 
 ## Featured Projects
 
-### AI PDF Chatbot
-Chat with PDFs using RAG and LLMs.
+- AI PDF Chatbot
+- Multi-Agent Research System
+- AI Resume Matcher
+- AI Browser Agent
 
-### Multi-Agent Research System
-AI agents that research, verify and generate reports.
-
-### AI Resume Matcher
-Match resumes against job descriptions using NLP.
-
-## Contact
-
-LinkedIn: ...
-Email: ravishpaulkr@gmail.com
+📫 Email: ravishpaulkr@gmail.com  
+💼 LinkedIn: www.linkedin.com/in/ravish-paul  
+🐦 X: x.com/PaulkrScratch
